@@ -4,12 +4,12 @@
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioProjectX/ForceSubscribe)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dasujan88/ForceSubscribe)
 
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/Rexinazor/ForceSubscribeBOT
+git clone https://github.com/dasujan88/ForceSubscribeBOT
 ```
 - Change directory
 ```
